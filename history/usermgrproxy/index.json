@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "usermgrproxy.dll",
+  "latest": "1058053665-1C2F914297DE45D5A588225DBD6A79C1-1",
+  "builds": [
+    {
+      "key": "1058053665-1C2F914297DE45D5A588225DBD6A79C1-1",
+      "timestamp": "1058053665",
+      "pdb_guid": "1C2F914297DE45D5A588225DBD6A79C1",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1058053665-1C2F914297DE45D5A588225DBD6A79C1-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
